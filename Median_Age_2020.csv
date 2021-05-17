@@ -1,208 +1,208 @@
 Entity,Code,2020
-Afghanistan,AFG, 19,5 
-Albania,ALB, 34,3 
-Algeria,DZA, 28,9 
-American Samoa,ASM, 27,2 
-Andorra,AND, 46,2 
-Angola,AGO, 15,9 
-Antigua and Barbuda,ATG, 32,7 
-Argentina,ARG, 32,4 
-Armenia,ARM, 36,6 
-Australia,AUS, 37,5 
-Austria,AUT, 44,5 
-Azerbaijan,AZE, 32,6 
-Bahamas,BHS, 32,8 
-Bahrain,BHR, 32,9 
-Bangladesh,BGD, 27,9 
-Barbados,BRB, 39,5 
-Belarus,BLR, 40,9 
-Belgium,BEL, 41,6 
-Belize,BLZ, 23,9 
-Benin,BEN, 17,0 
-Bhutan,BTN, 29,1 
-Bolivia,BOL, 25,3 
-Bosnia and Herzegovina,BIH, 43,3 
-Botswana,BWA, 25,7 
-Brazil,BRA, 33,2 
-Brunei,BRN, 31,1 
-Bulgaria,BGR, 43,7 
-Burkina Faso,BFA, 17,9 
-Burma,MMR, 29,2 
-Burundi,BDI, 17,7 
-Cabo Verde,CPV, 26,8 
-Cambodia,KHM, 26,4 
-Cameroon,CMR, 18,5 
-Canada,CAN, 41,8 
-Central African Republic,CAF, 20,0 
-Chad,TCD, 16,1 
-Chile,CHL, 35,5 
-China,CHN, 38,4 
-Colombia,COL, 31,2 
-Comoros,COM, 20,9 
-Congo (Brazzaville),COG, 19,5 
-Congo (Kinshasa),COD, 16,7 
-Cook Islands,COK, 38,3 
-Costa Rica,CRI, 32,6 
-Cote d'Ivoire,CIV, 20,3 
-Croatia,HRV, 43,9 
-Cuba,CUB, 42,1 
-Cyprus,CYP, 37,9 
-Czechia,CZE, 43,3 
-Denmark,DNK, 42,0 
-Djibouti,DJI, 24,9 
-Dominica,DMA, 34,9 
-Dominican Republic,DOM, 27,9 
-Ecuador,ECU, 28,8 
-Egypt,EGY, 24,1 
-El Salvador,SLV, 27,7 
-Equatorial Guinea,GNQ, 20,3 
-Eritrea,ERI, 20,3 
-Estonia,EST, 43,7 
-Eswatini,SWZ, 23,7 
-Ethiopia,ETH, 19,8 
-Fiji,FJI, 29,9 
-Finland,FIN, 42,8 
-France,FRA, 41,7 
-Gabon,GAB, 21,0 
-Gambia,GMB, 21,8 
-Georgia,GEO, 38,6 
-Germany,DEU, 47,8 
-Ghana,GHA, 21,4 
-Greece,GRC, 45,3 
-Grenada,GRD, 33,3 
-Guam,GUM, 29,4 
-Guatemala,GTM, 23,2 
-Guinea,GIN, 19,1 
-Guinea-Bissau,GNB, 18,0 
-Guyana,GUY, 27,5 
-Haiti,HTI, 24,1 
-Honduras,HND, 24,4 
-Hungary,HUN, 43,6 
-Iceland,ISL, 37,1 
-India,IND, 28,7 
-Indonesia,IDN, 31,1 
-Iran,IRN, 31,7 
-Iraq,IRQ, 21,2 
-Ireland,IRL, 37,8 
-Israel,ISR, 30,4 
-Italy,ITA, 46,5 
-Jamaica,JAM, 29,4 
-Japan,JPN, 48,6 
-Jordan,JOR, 23,5 
-Kazakhstan,KAZ, 31,6 
-Kenya,KEN, 20,0 
-Kiribati,KIR, 25,7 
-Kuwait,KWT, 29,7 
-Kyrgyzstan,KGZ, 27,3 
-Laos,LAO, 24,0 
-Latvia,LVA, 44,4 
-Lebanon,LBN, 33,7 
-Lesotho,LSO, 24,7 
-Liberia,LBR, 18,0 
-Libya,LBY, 25,8 
-Liechtenstein,LIE, 43,7 
-Lithuania,LTU, 44,5 
-Luxembourg,LUX, 39,5 
+Afghanistan,AFG,19.5
+Albania,ALB,34.3
+Algeria,DZA,28.9
+AmericanSamoa,ASM,27.2
+Andorra,AND,46.2
+Angola,AGO,15.9
+AntiguaandBarbuda,ATG,32.7
+Argentina,ARG,32.4
+Armenia,ARM,36.6
+Australia,AUS,37.5
+Austria,AUT,44.5
+Azerbaijan,AZE,32.6
+Bahamas,BHS,32.8
+Bahrain,BHR,32.9
+Bangladesh,BGD,27.9
+Barbados,BRB,39.5
+Belarus,BLR,40.9
+Belgium,BEL,41.6
+Belize,BLZ,23.9
+Benin,BEN,17.0
+Bhutan,BTN,29.1
+Bolivia,BOL,25.3
+BosniaandHerzegovina,BIH,43.3
+Botswana,BWA,25.7
+Brazil,BRA,33.2
+Brunei,BRN,31.1
+Bulgaria,BGR,43.7
+BurkinaFaso,BFA,17.9
+Burma,MMR,29.2
+Burundi,BDI,17.7
+CaboVerde,CPV,26.8
+Cambodia,KHM,26.4
+Cameroon,CMR,18.5
+Canada,CAN,41.8
+CentralAfricanRepublic,CAF,20.0
+Chad,TCD,16.1
+Chile,CHL,35.5
+China,CHN,38.4
+Colombia,COL,31.2
+Comoros,COM,20.9
+Congo(Brazzaville),COG,19.5
+Congo(Kinshasa),COD,16.7
+CookIslands,COK,38.3
+CostaRica,CRI,32.6
+Coted'Ivoire,CIV,20.3
+Croatia,HRV,43.9
+Cuba,CUB,42.1
+Cyprus,CYP,37.9
+Czechia,CZE,43.3
+Denmark,DNK,42.0
+Djibouti,DJI,24.9
+Dominica,DMA,34.9
+DominicanRepublic,DOM,27.9
+Ecuador,ECU,28.8
+Egypt,EGY,24.1
+ElSalvador,SLV,27.7
+EquatorialGuinea,GNQ,20.3
+Eritrea,ERI,20.3
+Estonia,EST,43.7
+Eswatini,SWZ,23.7
+Ethiopia,ETH,19.8
+Fiji,FJI,29.9
+Finland,FIN,42.8
+France,FRA,41.7
+Gabon,GAB,21.0
+Gambia,GMB,21.8
+Georgia,GEO,38.6
+Germany,DEU,47.8
+Ghana,GHA,21.4
+Greece,GRC,45.3
+Grenada,GRD,33.3
+Guam,GUM,29.4
+Guatemala,GTM,23.2
+Guinea,GIN,19.1
+Guinea-Bissau,GNB,18.0
+Guyana,GUY,27.5
+Haiti,HTI,24.1
+Honduras,HND,24.4
+Hungary,HUN,43.6
+Iceland,ISL,37.1
+India,IND,28.7
+Indonesia,IDN,31.1
+Iran,IRN,31.7
+Iraq,IRQ,21.2
+Ireland,IRL,37.8
+Israel,ISR,30.4
+Italy,ITA,46.5
+Jamaica,JAM,29.4
+Japan,JPN,48.6
+Jordan,JOR,23.5
+Kazakhstan,KAZ,31.6
+Kenya,KEN,20.0
+Kiribati,KIR,25.7
+Kuwait,KWT,29.7
+Kyrgyzstan,KGZ,27.3
+Laos,LAO,24.0
+Latvia,LVA,44.4
+Lebanon,LBN,33.7
+Lesotho,LSO,24.7
+Liberia,LBR,18.0
+Libya,LBY,25.8
+Liechtenstein,LIE,43.7
+Lithuania,LTU,44.5
+Luxembourg,LUX,39.5
 Macao,MAC,
-Madagascar,MDG, 20,3 
-Malawi,MWI, 16,8 
-Malaysia,MYS, 29,2 
-Maldives,MDV, 29,5 
-Mali,MLI, 16,1 
-Malta,MLT, 42,3 
-Marshall Islands,MHL, 23,8 
-Mauritania,MRT, 21,0 
-Mauritius,MUS, 36,3 
-Mexico,MEX, 29,3 
-Micronesia,FSM, 26,3 
-Moldova,MDA, 37,7 
-Monaco,MCO, 55,4 
-Mongolia,MNG, 29,8 
-Montenegro,MNE, 39,6 
-Morocco,MAR, 29,1 
-Mozambique,MOZ, 17,0 
-Namibia,NAM, 21,8 
-Nauru,NRU, 27,0 
-Nepal,NPL, 25,3 
-Netherlands,NLD, 42,8 
-New Zealand,NZL, 37,2 
-Nicaragua,NIC, 27,3 
-Niger,NER, 14,8 
-Nigeria,NGA, 18,6 
+Madagascar,MDG,20.3
+Malawi,MWI,16.8
+Malaysia,MYS,29.2
+Maldives,MDV,29.5
+Mali,MLI,16.1
+Malta,MLT,42.3
+MarshallIslands,MHL,23.8
+Mauritania,MRT,21.0
+Mauritius,MUS,36.3
+Mexico,MEX,29.3
+Micronesia,FSM,26.3
+Moldova,MDA,37.7
+Monaco,MCO,55.4
+Mongolia,MNG,29.8
+Montenegro,MNE,39.6
+Morocco,MAR,29.1
+Mozambique,MOZ,17.0
+Namibia,NAM,21.8
+Nauru,NRU,27.0
+Nepal,NPL,25.3
+Netherlands,NLD,42.8
+NewZealand,NZL,37.2
+Nicaragua,NIC,27.3
+Niger,NER,14.8
+Nigeria,NGA,18.6
 Niue,NIU,
-North Korea,PRK, 34,6 
-North Macedonia,MKD, 39,0 
-Northern Mariana Islands,MNP, 32,8 
-Norway,NOR, 39,5 
-Oman,OMN, 26,2 
-Pakistan,PAK, 22,0 
-Palau,PLW, 33,9 
+NorthKorea,PRK,34.6
+NorthMacedonia,MKD,39.0
+NorthernMarianaIslands,MNP,32.8
+Norway,NOR,39.5
+Oman,OMN,26.2
+Pakistan,PAK,22.0
+Palau,PLW,33.9
 Palestine,PSE,
-Panama,PAN, 30,1 
-Papua New Guinea,PNG, 24,0 
-Paraguay,PRY, 29,7 
-Peru,PER, 29,1 
-Philippines,PHL, 24,1 
-Poland,POL, 41,9 
-Portugal,PRT, 44,6 
-Puerto Rico,PRI, 43,6 
-Qatar,QAT, 33,7 
-Romania,ROU, 42,5 
-Russia,RUS, 40,3 
-Rwanda,RWA, 19,7 
-Saint Helena,SHN, 43,2 
-Saint Kitts and Nevis,KNA, 36,5 
-Saint Lucia,LCA, 36,9 
-Saint Vincent and the Grenadines,VCT, 35,3 
-Samoa,WSM, 25,6 
-San Marino,SMR, 45,2 
-Sao Tome and Principe,STP, 19,3 
-Saudi Arabia,SAU, 30,8 
-Senegal,SEN, 19,4 
-Serbia,SRB, 43,4 
-Seychelles,SYC, 36,8 
-Sierra Leone,SLE, 19,1 
-Singapore,SGP, 35,6 
-Slovakia,SVK, 41,8 
-Slovenia,SVN, 44,9 
-Solomon Islands,SLB, 23,5 
-Somalia,SOM, 18,5 
-South Africa,ZAF, 28,0 
-South Korea,KOR, 43,2 
-South Sudan,SSD, 18,6 
-Spain,ESP, 43,9 
-Sri Lanka,LKA, 33,7 
-Sudan,SDN, 18,3 
-Suriname,SUR, 31,0 
-Sweden,SWE, 41,1 
-Switzerland,CHE, 42,7 
-Syria,SYR, 23,5 
-Taiwan,TWN, 42,3 
-Tajikistan,TJK, 25,3 
-Tanzania,TZA, 18,2 
-Thailand,THA, 39,0 
-Timor-Leste,TLS, 19,6 
-Togo,TGO, 20,0 
+Panama,PAN,30.1
+PapuaNewGuinea,PNG,24.0
+Paraguay,PRY,29.7
+Peru,PER,29.1
+Philippines,PHL,24.1
+Poland,POL,41.9
+Portugal,PRT,44.6
+PuertoRico,PRI,43.6
+Qatar,QAT,33.7
+Romania,ROU,42.5
+Russia,RUS,40.3
+Rwanda,RWA,19.7
+SaintHelena,SHN,43.2
+SaintKittsandNevis,KNA,36.5
+SaintLucia,LCA,36.9
+SaintVincentandtheGrenadines,VCT,35.3
+Samoa,WSM,25.6
+SanMarino,SMR,45.2
+SaoTomeandPrincipe,STP,19.3
+SaudiArabia,SAU,30.8
+Senegal,SEN,19.4
+Serbia,SRB,43.4
+Seychelles,SYC,36.8
+SierraLeone,SLE,19.1
+Singapore,SGP,35.6
+Slovakia,SVK,41.8
+Slovenia,SVN,44.9
+SolomonIslands,SLB,23.5
+Somalia,SOM,18.5
+SouthAfrica,ZAF,28.0
+SouthKorea,KOR,43.2
+SouthSudan,SSD,18.6
+Spain,ESP,43.9
+SriLanka,LKA,33.7
+Sudan,SDN,18.3
+Suriname,SUR,31.0
+Sweden,SWE,41.1
+Switzerland,CHE,42.7
+Syria,SYR,23.5
+Taiwan,TWN,42.3
+Tajikistan,TJK,25.3
+Tanzania,TZA,18.2
+Thailand,THA,39.0
+Timor-Leste,TLS,19.6
+Togo,TGO,20.0
 Tokelau,TKL,
-Tonga,TON, 24,1 
-Trinidad and Tobago,TTO, 37,8 
-Tunisia,TUN, 32,7 
-Turkey,TUR, 32,2 
-Turkmenistan,TKM, 29,2 
-Tuvalu,TUV, 26,6 
-Uganda,UGA, 15,7 
-Ukraine,UKR, 41,2 
-United Arab Emirates,ARE, 38,4 
-United Kingdom,UK, 40,6 
-United States Virgin Islands,VIR, 41,8 
-Uruguay,URY, 35,5 
-United States,USA, 38,5 
-Uzbekistan,UZB, 30,1 
-Vanuatu,VUT, 23,0 
+Tonga,TON,24.1
+TrinidadandTobago,TTO,37.8
+Tunisia,TUN,32.7
+Turkey,TUR,32.2
+Turkmenistan,TKM,29.2
+Tuvalu,TUV,26.6
+Uganda,UGA,15.7
+Ukraine,UKR,41.2
+UnitedArabEmirates,ARE,38.4
+UnitedKingdom,UK,40.6
+UnitedStatesVirginIslands,VIR,41.8
+Uruguay,URY,35.5
+UnitedStates,USA,38.5
+Uzbekistan,UZB,30.1
+Vanuatu,VUT,23.0
 Vatican,VAT,
-Venezuela,VEN, 30,0 
-Vietnam,VNM, 31,9 
-Western Sahara,ESH, 21,5 
-Yemen,YEM, 19,8 
-Zambia,ZMB, 16,9 
-Zimbabwe,ZWE, 20,5 
+Venezuela,VEN,30.0
+Vietnam,VNM,31.9
+WesternSahara,ESH,21.5
+Yemen,YEM,19.8
+Zambia,ZMB,16.9
+Zimbabwe,ZWE,20.5
